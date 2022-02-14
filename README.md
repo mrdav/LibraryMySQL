@@ -1,2 +1,2 @@
 # LibraryMySQL
-Script for a concept library written in Python.
+Script for a concept library written in Python and MySQL.
